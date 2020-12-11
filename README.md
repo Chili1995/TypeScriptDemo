@@ -1,2 +1,0 @@
-# TypeScriptDemo
-TypeScript基础
