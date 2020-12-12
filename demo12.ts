@@ -34,6 +34,6 @@ class employees3 extends employees{
   }
 }
 
-const test = new employees3();
-console.log(test.skill())
+// const test = new employees3();
+// console.log(test.skill())
 
